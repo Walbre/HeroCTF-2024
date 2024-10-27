@@ -1,9 +1,9 @@
 # HeroCTFv6
 
- - [Prog - Antwarz]("prog - antwarz/")
+ - [Prog - Antwarz](prog%20-%20antwarz/)
 
- - [Web - cache-cache]("web - cache-cache/")
+ - [Web - cache-cache](web%20-%20cache-cache/)
 
- - [Web - jinjatic]("web - jinjatic/")
+ - [Web - jinjatic](web%20-%20jinjatic/)
 
- - [Web - sampleHub]("web - sampleHub/")
+ - [Web - sampleHub](web%20-%20sampleHub/)
